@@ -12,7 +12,7 @@ Muestra el uso de:
     -El uso de include para las librerias
     -do-while
     -Contador
-    -Comentarios para la doumentación interna del programa.
+    -Comentarios para la documentación interna del programa.
 */
 #include<stdio.h>
 
